@@ -32,9 +32,15 @@ O programa consiste em um loop while que exibe o menu de opções ao usuário at
 ele escolha encerrar o programa (opção 7). As operações disponíveis incluem:
 
 opção 1: Adiciona um item à lista.
+
 opção 2: Remove um item da lista.
+
 opção 3: Pesquisa um item na lista.
+
 opção 4: Ordena a lista alfabeticamente.
+
 opção 5: Exibe a lista atual.
+
 opção 6: Limpa todos os itens da lista.
+
 opção 7: Encerra o programa.
